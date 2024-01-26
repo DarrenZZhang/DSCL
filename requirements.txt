@@ -1,0 +1,3 @@
+scipy
+faiss-gpu
+apex
