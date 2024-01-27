@@ -1,8 +1,8 @@
-python3 train_DSCL.py --dataset CIFAR-100 --num_classe 100 noise_ratio 0.9 --noise_type symmetric --alpha 0.75 --warmup-epoch 1 
+python3 train_DSCL.py --dataset CIFAR-100 --num_classe 100 --noise_ratio 0.9 --noise_type symmetric --alpha 0.75 --warmup-epoch 1 
 
-python3 train_DSCL.py --dataset CIFAR-100 --num_classe 100 noise_ratio 0.2 --noise_type symmetric --alpha 1 --warmup-epoch 1 
+python3 train_DSCL.py --dataset CIFAR-100 --num_classe 100 --noise_ratio 0.2 --noise_type symmetric --alpha 1 --warmup-epoch 1 
 
-python3 train_DSCL.py --dataset CIFAR-10 --num_classe 10 noise_ratio 0.9 --noise_type symmetric --alpha 0.75 --warmup-epoch 1 
+python3 train_DSCL.py --dataset CIFAR-10 --num_classe 10 --noise_ratio 0.9 --noise_type symmetric --alpha 0.75 --warmup-epoch 1 
 
-python3 train_DSCL.py --dataset CIFAR-10 --num_classe 10 noise_ratio 0.2 --noise_type symmetric --alpha 1 --warmup-epoch 1 
+python3 train_DSCL.py --dataset CIFAR-10 --num_classe 10 --noise_ratio 0.2 --noise_type symmetric --alpha 1 --warmup-epoch 1 
 
