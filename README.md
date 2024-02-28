@@ -9,11 +9,11 @@ This is the source code of IEEE TCSVT 2024 paper "Learning with Noisy Labels by 
 
 Comparison between the existing methods and the proposed method.:
 
-![](./Fig_1.jpg)
+![](./Fig_1.png)
 
 The detailed learning framework of DSCL:
 
-![](./Fig_2.jpg)
+![](./Fig_2.png)
 
 
 ### 2. Requirements
